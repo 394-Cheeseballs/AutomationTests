@@ -10,4 +10,4 @@ These functionalities were automated because we decided they were the most impor
 Such tests would have to be done after every change, so it is obvious they should be automated.
 
 Due to time constraints and inability to create new users, these tests are very vulnerable to changes. Setup for tests is very rudimentary, more robust setup is required (new user creation, new separate food provider creation).
-More tests were planned (admin functions) but they were cut after we saw there was not enought time.
+More tests were planned (admin functions) but they were cut after we saw there was not enough time.
